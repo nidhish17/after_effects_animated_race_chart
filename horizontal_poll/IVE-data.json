@@ -1,0 +1,390 @@
+{
+  "groupName": "IVE",
+  "groupNameColor": [
+    0.9961,
+    0.6588,
+    0.3255
+  ],
+  "songs": {
+    "BlackHole": {
+      "votes": [
+        {
+          "member": "Gaeul",
+          "votes": 695
+        },
+        {
+          "member": "An Yujin",
+          "votes": 609
+        },
+        {
+          "member": "Liz",
+          "votes": 462
+        },
+        {
+          "member": "Leeseo",
+          "votes": 391
+        },
+        {
+          "member": "Rei",
+          "votes": 342
+        },
+        {
+          "member": "Wongyoung",
+          "votes": 275
+        }
+      ],
+      "totalVotes": 2774,
+      "images": {
+        "Gaeul": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "An Yujin": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Liz": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "Leeseo": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Rei": "C:\\Users\\admin\\Downloads\\IMG_8374-600x800-1080.png",
+        "Wongyoung": "C:\\Users\\admin\\Downloads\\wonyong-768x1024-1080.png"
+      },
+      "colors": {
+        "Gaeul": [
+          0.9373,
+          0.2667,
+          0.2667
+        ],
+        "An Yujin": [
+          0.9765,
+          0.451,
+          0.0863
+        ],
+        "Liz": [
+          0.9608,
+          0.6196,
+          0.0431
+        ],
+        "Leeseo": [
+          0.9176,
+          0.702,
+          0.0314
+        ],
+        "Rei": [
+          0.5176,
+          0.8,
+          0.0863
+        ],
+        "Wongyoung": [
+          0.1333,
+          0.7725,
+          0.3686
+        ]
+      },
+      "songColor": [
+        1,
+        0.3216,
+        0.3216
+      ]
+    },
+    "Heya": {
+      "votes": [
+        {
+          "member": "Gaeul",
+          "votes": 3184
+        },
+        {
+          "member": "An Yujin",
+          "votes": 1410
+        },
+        {
+          "member": "Liz",
+          "votes": 2536
+        },
+        {
+          "member": "Leeseo",
+          "votes": 2018
+        },
+        {
+          "member": "Rei",
+          "votes": 1782
+        },
+        {
+          "member": "Jang Wonyoung",
+          "votes": 1123
+        }
+      ],
+      "totalVotes": 12053,
+      "images": {
+        "Gaeul": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "An Yujin": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Liz": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "Leeseo": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Rei": "C:\\Users\\admin\\Downloads\\IMG_8374-600x800-1080.png",
+        "Jang Wonyoung": "C:\\Users\\admin\\Downloads\\wonyong-768x1024-1080.png"
+      },
+      "colors": {
+        "Gaeul": [
+          0.9373,
+          0.2667,
+          0.2667
+        ],
+        "An Yujin": [
+          0.9765,
+          0.451,
+          0.0863
+        ],
+        "Liz": [
+          0.9608,
+          0.6196,
+          0.0431
+        ],
+        "Leeseo": [
+          0.9176,
+          0.702,
+          0.0314
+        ],
+        "Rei": [
+          0.5176,
+          0.8,
+          0.0863
+        ],
+        "Jang Wonyoung": [
+          0.0549,
+          0.6471,
+          0.9137
+        ]
+      },
+      "songColor": [
+        0.5922,
+        0.8824,
+        0.3373
+      ]
+    },
+    "Banbang": {
+      "votes": [
+        {
+          "member": "Gaeul",
+          "votes": 1008
+        },
+        {
+          "member": "An Yujin",
+          "votes": 376
+        },
+        {
+          "member": "Liz",
+          "votes": 384
+        },
+        {
+          "member": "Leeseo",
+          "votes": 558
+        },
+        {
+          "member": "Rei",
+          "votes": 860
+        },
+        {
+          "member": "Jang Wonyoung",
+          "votes": 400
+        }
+      ],
+      "totalVotes": 3586,
+      "images": {
+        "Gaeul": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "An Yujin": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Liz": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "Leeseo": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Rei": "C:\\Users\\admin\\Downloads\\IMG_8374-600x800-1080.png",
+        "Jang Wonyoung": "C:\\Users\\admin\\Downloads\\wonyong-768x1024-1080.png"
+      },
+      "colors": {
+        "Gaeul": [
+          0.9373,
+          0.2667,
+          0.2667
+        ],
+        "An Yujin": [
+          0.9765,
+          0.451,
+          0.0863
+        ],
+        "Liz": [
+          0.9608,
+          0.6196,
+          0.0431
+        ],
+        "Leeseo": [
+          0.9176,
+          0.702,
+          0.0314
+        ],
+        "Rei": [
+          0.5176,
+          0.8,
+          0.0863
+        ],
+        "Jang Wonyoung": [
+          0.0235,
+          0.7137,
+          0.8314
+        ]
+      },
+      "songColor": [
+        0.8784,
+        0.4392,
+        0.2235
+      ]
+    },
+    "Eleven": {
+      "votes": [
+        {
+          "member": "Liz",
+          "votes": 5483
+        },
+        {
+          "member": "Wonyoung",
+          "votes": 4899
+        },
+        {
+          "member": "Yujin",
+          "votes": 4115
+        },
+        {
+          "member": "Gaeul",
+          "votes": 4014
+        },
+        {
+          "member": "Leeseo",
+          "votes": 3377
+        },
+        {
+          "member": "Rei",
+          "votes": 3247
+        }
+      ],
+      "totalVotes": 25135,
+      "images": {
+        "Liz": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "Wonyoung": "C:\\Users\\admin\\Downloads\\wonyong-768x1024-1080.png",
+        "Yujin": "C:\\Users\\admin\\Downloads\\IMG_8374-600x800-1080.png",
+        "Gaeul": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "Leeseo": "C:\\Users\\admin\\Downloads\\wonyong-768x1024-1080.png",
+        "Rei": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png"
+      },
+      "colors": {
+        "Liz": [
+          0.9608,
+          0.6196,
+          0.0431
+        ],
+        "Wonyoung": [
+          0.9176,
+          0.702,
+          0.0314
+        ],
+        "Yujin": [
+          0.5176,
+          0.8,
+          0.0863
+        ],
+        "Gaeul": [
+          0.1333,
+          0.7725,
+          0.3686
+        ],
+        "Leeseo": [
+          0.0627,
+          0.7255,
+          0.5059
+        ],
+        "Rei": [
+          0.0784,
+          0.7216,
+          0.651
+        ]
+      },
+      "songColor": [
+        0.9529,
+        0.5765,
+        0.7569
+      ]
+    },
+    "bgbg2": {
+      "votes": [
+        {
+          "member": "Gaeul",
+          "votes": 1008
+        },
+        {
+          "member": "An Yujin",
+          "votes": 377
+        },
+        {
+          "member": "Liz",
+          "votes": 384
+        },
+        {
+          "member": "Leeseo",
+          "votes": 558
+        },
+        {
+          "member": "Rei",
+          "votes": 860
+        },
+        {
+          "member": "Wongyoung",
+          "votes": 275
+        },
+        {
+          "member": "Jang Wonyoung",
+          "votes": 400
+        }
+      ],
+      "totalVotes": 3862,
+      "images": {
+        "Gaeul": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "An Yujin": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Liz": "C:\\Users\\admin\\Downloads\\SnapInsta.to_628181153_18084368660601032_393818886811121239_n-769x1024-1080.png",
+        "Leeseo": "C:\\Users\\admin\\Downloads\\Adobe Express - file.jpg",
+        "Rei": "C:\\Users\\admin\\Downloads\\IMG_8374-600x800-1080.png",
+        "Wongyoung": "C:\\Users\\admin\\Downloads\\wonyong-768x1024-1080.png",
+        "Jang Wonyoung": "C:\\Users\\admin\\Downloads\\wonyong-768x1024-1080.png"
+      },
+      "colors": {
+        "Gaeul": [
+          0.9373,
+          0.2667,
+          0.2667
+        ],
+        "An Yujin": [
+          0.9765,
+          0.451,
+          0.0863
+        ],
+        "Liz": [
+          0.9608,
+          0.6196,
+          0.0431
+        ],
+        "Leeseo": [
+          0.9176,
+          0.702,
+          0.0314
+        ],
+        "Rei": [
+          0.5176,
+          0.8,
+          0.0863
+        ],
+        "Wongyoung": [
+          0.1333,
+          0.7725,
+          0.3686
+        ],
+        "Jang Wonyoung": [
+          0.2314,
+          0.5098,
+          0.9647
+        ]
+      },
+      "songColor": [
+        1,
+        0.3216,
+        0.3216
+      ]
+    }
+  }
+}
