@@ -1,0 +1,22 @@
+{
+  "name": "ae_poll_script",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "babel horizontal_poll/my_expressions.js --watch --out-file dist/ae_expressions.js"
+  },
+  "dependencies": {
+    "es5-shim": "^4.6.7"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/plugin-transform-template-literals": "^7.27.1"
+  }
+}
+
