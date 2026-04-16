@@ -31,6 +31,14 @@ compositions inside the after effects. this file is not compiled or anything so 
 extendscript rules. this file also imports the other helper files and compiled expression files using the
 \# include which is a valid syntax inside extenscript after effects.
 
+The horizontal_file/vendor dir contains two files es5-shim.js and extendscript-polyfills.js which are 
+the support modules for the extendscript which is used to support the older version of the ae engine!
+
+The thing about this project is no npm installs are required everything needed are already included like 
+the es5-shim.js,.... it is drectly copy pasted from node_modules to include into the ae script file using
+\# include. The only installation required is babel to convert the backticks into normal string contcatenation 
+to support the older extendscript engine of after effects.
+
 ## example dataset
 The file inside horizontal_poll, IVE-data.json (horizontal_poll/IVE-data.json) file is an example file
 that will be parsed by the after effects to generate the compositions and the layers! 
